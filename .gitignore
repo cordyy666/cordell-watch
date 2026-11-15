@@ -1,0 +1,13 @@
+# PlatformIO build directory
+.pio/
+
+# Object files and linked images
+*.o
+*.elf
+
+# Build artifacts and logs
+*.bin
+*.hex
+*.map
+build.log
+dist/*.bin
